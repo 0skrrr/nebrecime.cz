@@ -1,6 +1,7 @@
 # nebrecime.cz
 
 Studijní web pro studenty školy CreativeHill.CZ. Poznámky z maturitních předmětů
+(test)
 
 ## Struktura projektu
 
